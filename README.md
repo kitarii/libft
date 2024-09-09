@@ -1,10 +1,9 @@
-Libft - 42 Project
+📚 Libft - 42 Project
 Introduction
-libft is a custom library of standard C functions, developed as part of the 42 curriculum. The purpose of this project is to recreate essential C library functions to gain a deeper understanding of their inner workings and to build a foundation for future projects.
+Welcome to libft, a custom C library developed as part of the 42 curriculum! 🎓 The goal of this project is to recreate essential functions from the C standard library, helping us better understand their inner workings while providing a solid foundation for future projects.
 
-Functions
-Part 1 - Libc Functions
-Reimplementations of standard C functions:
+⚙️ Functions Overview
+🔹 Part 1: Libc Functions
 
 ft_memset
 ft_bzero
@@ -34,7 +33,9 @@ ft_isascii
 ft_isprint
 ft_toupper
 ft_tolower
-Part 2 - Additional Functions
+
+
+🔹 Part 2: Additional Functions
 Additional utility functions:
 
 ft_substr
